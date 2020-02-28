@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {}
-
+//I added a comment here for testing purposes
 
 /*
 Copyright Google LLC. All Rights Reserved.
